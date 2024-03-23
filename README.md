@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<p align="center">
+  <a href="https://github.com/Ra1toya">
+    <img alt="stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ra1toya&show_icons=true&theme=tokyonight"/>
+    <img alt="langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra1toya&layout=compact&theme=tokyonight"/>
+  </a>
+</p>
 <!--
 **Ra1toning/Ra1toning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
