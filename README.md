@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ra1toya">
-    <img alt="stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ra1toning&show_icons=true&theme=tokyonight"/>
+    <img alt="stats" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ra1toning&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img alt="langs" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ra1toning&layout=compact&theme=tokyonight"/>
   </a>
 </p>
